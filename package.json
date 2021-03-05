@@ -1,0 +1,22 @@
+{
+  "name": "@knagurski/wee-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WeeButton.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knagurski/wee-button.git"
+  },
+  "author": "Kevin Nagurski <knagurski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knagurski/wee-button/issues"
+  },
+  "homepage": "https://github.com/knagurski/wee-button#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
